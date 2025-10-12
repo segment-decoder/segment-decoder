@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Gwanu.&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Gwanu.&fontSize=80)
 
 ## Hi there 👋
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <!--
 **segment-decoder/segment-decoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
