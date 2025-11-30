@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Gwanu.&fontSize=80)
 
 ## 👋 Introduction
-• Yeungnam University<br />
-• Information and communication engineering.
+• Yeungnam University
+• Physics
+• Information and communication engineering
 
 ## 🧑‍💻 Contact
 <a href=mailto:seg.decoder@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seg.decoder@gmail.com">
