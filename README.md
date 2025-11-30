@@ -5,7 +5,6 @@
 • Information and communication engineering.
 
 ## 🧑‍💻 Contact
-<a href="https://www.instagram.com/seg.decoder?igsh=MXZxc2QxZ21qMnUzYw=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seg.decoder?igsh=MXZxc2QxZ21qMnUzYw==">
 <a href=mailto:seg.decoder@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seg.decoder@gmail.com">
 
 ## 🏅 Stats
