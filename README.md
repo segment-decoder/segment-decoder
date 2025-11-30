@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Gwanu.&fontSize=80)
 
 ## 👋 Introduction
-• Yeungnam University
-• Physics
+• Yeungnam University<br />
+• Physics<br />
 • Information and communication engineering
 
 ## 🧑‍💻 Contact
