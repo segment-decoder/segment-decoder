@@ -10,4 +10,3 @@
 
 ## 🏅 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segment-decoder)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=segment-decoder&bg_color=60,ff8585,c061ff&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segment-decoder&layout=compact&bg_color=60,ff8585,c061ff&title_color=000000&text_color=000000"/>
