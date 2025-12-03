@@ -9,4 +9,4 @@
 <a href=mailto:seg.decoder@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seg.decoder@gmail.com"/>
 
 ## 🏅 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segment-decoder)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segment-decoder&show_icons=true&theme=default)
